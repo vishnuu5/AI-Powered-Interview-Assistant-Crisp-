@@ -35,7 +35,7 @@ A modern AI-powered interview assistant with dual-pane interface for conducting 
 
 **Project Demo**
 
-[View Project Demo]()
+[View Project Demo](https://ai-powered-interview-assistant-cris-lake.vercel.app)
 
 ## Installation & Setup
 
